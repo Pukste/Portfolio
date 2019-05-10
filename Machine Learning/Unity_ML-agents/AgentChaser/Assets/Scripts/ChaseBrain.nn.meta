@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8b78c7a801b51fa4a9d6adbacdc65a01
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Scripts/ChaseBrain.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
